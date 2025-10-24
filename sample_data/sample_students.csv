@@ -1,0 +1,51 @@
+StudentID,Name,Department,Semester,CourseCode,CourseName,CreditHours,Marks
+S001,John Doe,Computer Science,Fall 2023,CS101,Programming I,3.0,85.0
+S001,John Doe,Computer Science,Fall 2023,CS102,Programming II,3.0,90.0
+S001,John Doe,Computer Science,Fall 2023,CS103,Data Structures,3.0,88.0
+S001,John Doe,Computer Science,Spring 2024,CS201,Algorithms,3.0,92.0
+S001,John Doe,Computer Science,Spring 2024,CS202,Database Systems,3.0,87.0
+S002,Jane Smith,Mathematics,Fall 2023,MATH101,Calculus I,4.0,78.0
+S002,Jane Smith,Mathematics,Fall 2023,MATH102,Calculus II,4.0,82.0
+S002,Jane Smith,Mathematics,Fall 2023,MATH103,Linear Algebra,3.0,85.0
+S002,Jane Smith,Mathematics,Spring 2024,MATH201,Statistics,3.0,88.0
+S002,Jane Smith,Mathematics,Spring 2024,MATH202,Probability,3.0,90.0
+S003,Bob Johnson,Physics,Fall 2023,PHYS101,Mechanics,3.0,88.0
+S003,Bob Johnson,Physics,Fall 2023,PHYS102,Thermodynamics,3.0,85.0
+S003,Bob Johnson,Physics,Fall 2023,PHYS103,Electromagnetism,3.0,92.0
+S003,Bob Johnson,Physics,Spring 2024,PHYS201,Quantum Mechanics,3.0,89.0
+S003,Bob Johnson,Physics,Spring 2024,PHYS202,Optics,3.0,86.0
+S004,Alice Brown,Computer Science,Fall 2023,CS101,Programming I,3.0,92.0
+S004,Alice Brown,Computer Science,Fall 2023,CS102,Programming II,3.0,95.0
+S004,Alice Brown,Computer Science,Fall 2023,CS103,Data Structures,3.0,89.0
+S004,Alice Brown,Computer Science,Spring 2024,CS201,Algorithms,3.0,94.0
+S004,Alice Brown,Computer Science,Spring 2024,CS202,Database Systems,3.0,91.0
+S005,Charlie Wilson,Mathematics,Fall 2023,MATH101,Calculus I,4.0,72.0
+S005,Charlie Wilson,Mathematics,Fall 2023,MATH102,Calculus II,4.0,75.0
+S005,Charlie Wilson,Mathematics,Fall 2023,MATH103,Linear Algebra,3.0,78.0
+S005,Charlie Wilson,Mathematics,Spring 2024,MATH201,Statistics,3.0,80.0
+S005,Charlie Wilson,Mathematics,Spring 2024,MATH202,Probability,3.0,82.0
+S006,Diana Lee,Physics,Fall 2023,PHYS101,Mechanics,3.0,95.0
+S006,Diana Lee,Physics,Fall 2023,PHYS102,Thermodynamics,3.0,93.0
+S006,Diana Lee,Physics,Fall 2023,PHYS103,Electromagnetism,3.0,97.0
+S006,Diana Lee,Physics,Spring 2024,PHYS201,Quantum Mechanics,3.0,94.0
+S006,Diana Lee,Physics,Spring 2024,PHYS202,Optics,3.0,96.0
+S007,Frank Miller,Computer Science,Fall 2023,CS101,Programming I,3.0,65.0
+S007,Frank Miller,Computer Science,Fall 2023,CS102,Programming II,3.0,68.0
+S007,Frank Miller,Computer Science,Fall 2023,CS103,Data Structures,3.0,70.0
+S007,Frank Miller,Computer Science,Spring 2024,CS201,Algorithms,3.0,72.0
+S007,Frank Miller,Computer Science,Spring 2024,CS202,Database Systems,3.0,75.0
+S008,Grace Taylor,Mathematics,Fall 2023,MATH101,Calculus I,4.0,88.0
+S008,Grace Taylor,Mathematics,Fall 2023,MATH102,Calculus II,4.0,91.0
+S008,Grace Taylor,Mathematics,Fall 2023,MATH103,Linear Algebra,3.0,89.0
+S008,Grace Taylor,Mathematics,Spring 2024,MATH201,Statistics,3.0,93.0
+S008,Grace Taylor,Mathematics,Spring 2024,MATH202,Probability,3.0,90.0
+S009,Henry Davis,Physics,Fall 2023,PHYS101,Mechanics,3.0,82.0
+S009,Henry Davis,Physics,Fall 2023,PHYS102,Thermodynamics,3.0,85.0
+S009,Henry Davis,Physics,Fall 2023,PHYS103,Electromagnetism,3.0,88.0
+S009,Henry Davis,Physics,Spring 2024,PHYS201,Quantum Mechanics,3.0,86.0
+S009,Henry Davis,Physics,Spring 2024,PHYS202,Optics,3.0,84.0
+S010,Ivy Chen,Computer Science,Fall 2023,CS101,Programming I,3.0,45.0
+S010,Ivy Chen,Computer Science,Fall 2023,CS102,Programming II,3.0,48.0
+S010,Ivy Chen,Computer Science,Fall 2023,CS103,Data Structures,3.0,42.0
+S010,Ivy Chen,Computer Science,Spring 2024,CS201,Algorithms,3.0,50.0
+S010,Ivy Chen,Computer Science,Spring 2024,CS202,Database Systems,3.0,46.0
